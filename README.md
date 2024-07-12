@@ -1,4 +1,6 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/2432b083-5441-4b16-909c-9feec44689f0)
+![image](https://github.com/user-attachments/assets/3cc60e42-b056-48ae-a3ff-fd01a7ba46be)
 
 <!--
 **syangbo12/syangbo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
