@@ -1,5 +1,6 @@
 ## Hi there 
-
+![image](https://github.com/user-attachments/assets/e016c908-c656-4dde-99f1-54bc25d63cf7)
+all i love is music..
 
 <!--
 **syangbo12/syangbo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
